@@ -21,7 +21,7 @@ The code applies the following steps:
 - pandas for data handling
 - nltk for text preprocessing
 - scikit-learn for machine learning and model evaluation
-- matplotlib and seaborn for visualizations (optional)
+- matplotlib and seaborn for visualizations 
 
 You can install the required libraries using pip:
 
